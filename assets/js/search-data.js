@@ -451,8 +451,8 @@ ninja.data = [{
           section: "News",},{id: "news-we-just-release-our-website",
           title: 'We just release our website!',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-acteabot",
+          title: 'AcTEAbot',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/1_project/";

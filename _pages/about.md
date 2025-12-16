@@ -27,52 +27,51 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-This is OpenConstructionRobotics from [ICONLab](https://intelconstructlab.github.io/index.html)
+
 
 <div class="clearfix">
   <p>
-    <strong>Welcome.</strong> This is the standard intro text where you introduce yourself.
-    Because the al-folio theme floats your profile picture to the right (or left), 
-    this text will wrap naturally around it. Keep this section clean and text-focused 
-    to establish context immediately.
+    <strong>Welcome.</strong> This is OpenConstructionRobotics, an open registry for the construction robotics community, aggregating datasets, codebases, and pilot studies. We organize standards to streamline discovery and collaboration from the lab to the job site.
   </p>
 </div>
 
 <div class="my-5"></div>
 
-<div class="card mt-4 mb-4 border-0 shadow-sm">
-  <div class="card-body p-4">
-    <h2 class="card-title text-center mb-4" style="border-bottom: none;">Our Vision</h2>
+<div class="card mt-5 mb-5 border-0 shadow-sm">
+  <div class="card-body p-5">
+    <h2 class="card-title text-center mb-5" style="border-bottom: none;">The Vision</h2>
     
     <div class="row">
-      <div class="col-sm-4 text-center">
-        <i class="fas fa-lightbulb fa-3x mb-3 text-info"></i>
-        <h5>Innovation</h5>
-        <p class="small text-muted">
-          Short description of your first vision pillar.
+      <div class="col-md-4 text-center mb-4">
+        <i class="fas fa-code-branch fa-3x mb-3 text-primary"></i>
+        <h5>Decentralized Co-Creation</h5>
+        <p class="small text-muted px-2">
+          Empowering a distributed network of researchers and engineers to contribute modular datasets and algorithms. We foster open innovation through shared standards.
         </p>
       </div>
       
-      <div class="col-sm-4 text-center">
-        <i class="fas fa-globe-americas fa-3x mb-3 text-success"></i>
-        <h5>Impact</h5>
-        <p class="small text-muted">
-          Short description of how you intend to affect the world.
+      <div class="col-md-4 text-center mb-4">
+        <i class="fas fa-hard-hat fa-3x mb-3 text-warning"></i>
+        <h5>Industry Adoption</h5>
+        <p class="small text-muted px-2">
+          Bridging the gap between the lab and the job site. We provide the user community with discoverable, vetted tools ready for pilot studies and real-world deployment.
         </p>
       </div>
       
-      <div class="col-sm-4 text-center">
-        <i class="fas fa-users fa-3x mb-3 text-warning"></i>
-        <h5>Collaboration</h5>
-        <p class="small text-muted">
-          Description of the community or methodology.
+      <div class="col-md-4 text-center mb-4">
+        <i class="fas fa-shield-alt fa-3x mb-3 text-success"></i>
+        <h5>Sustainable Infrastructure</h5>
+        <p class="small text-muted px-2">
+          A managing body dedicated to robust governance, security, and CI/CD pipelines. We ensure long-term stability, streamlined onboarding, and data privacy.
         </p>
       </div>
     </div>
     
-    <blockquote class="blockquote text-center mt-3 border-0">
-      <p class="mb-0">"A specific quote that summarizes your philosophy."</p>
-    </blockquote>
+    <div class="text-center mt-3 pt-3 border-top">
+      <p class="mb-0 text-muted" style="font-style: italic;">
+        "Building the digital backbone for the future of construction automation."
+      </p>
+    </div>
   </div>
 </div>
 
@@ -94,5 +93,3 @@ This is OpenConstructionRobotics from [ICONLab](https://intelconstructlab.github
     </div>
   </div>
 </div>
-
-<h2>News</h2>

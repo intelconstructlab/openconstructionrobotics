@@ -27,30 +27,38 @@ latest_posts:
 
 <div class="card mt-5 mb-5 border-0 shadow-sm">
   <div class="card-body p-5">
-    <h2 class="card-title text-center mb-5" style="border-bottom: none;">Our Vision</h2>
+    <h2 class="card-title text-center mb-5" style="border-bottom: none;">The Vision</h2>
     
     <div class="row">
-      <div class="col-md-4 text-center mb-4">
+      <div class="col-md-6 text-center mb-5">
         <i class="fas fa-code-branch fa-3x mb-3 text-primary"></i>
         <h5>Decentralized Co-Creation</h5>
-        <p class="small text-muted px-2">
-          Empowering a distributed network of researchers and engineers to contribute modular datasets and algorithms. We foster open innovation through shared standards.
+        <p class="small text-muted px-4">
+          Empowering a distributed network of researchers to contribute modular datasets and algorithms. We foster open innovation through shared standards and version control.
         </p>
       </div>
       
-      <div class="col-md-4 text-center mb-4">
+      <div class="col-md-6 text-center mb-5">
         <i class="fas fa-hard-hat fa-3x mb-3 text-warning"></i>
         <h5>Industry Adoption</h5>
-        <p class="small text-muted px-2">
-          Bridging the gap between the lab and the job site. We provide the user community with discoverable, vetted tools ready for pilot studies and real-world deployment.
+        <p class="small text-muted px-4">
+          Bridging the gap between research and the job site. We provide the industry with discoverable, vetted tools ready for pilot studies and real-world deployment.
         </p>
       </div>
       
-      <div class="col-md-4 text-center mb-4">
+      <div class="col-md-6 text-center mb-4">
+        <i class="fas fa-graduation-cap fa-3x mb-3 text-info"></i>
+        <h5>Education & Workforce</h5>
+        <p class="small text-muted px-4">
+          Lowering the barrier to entry for the next generation of engineers. We provide tutorials, OERs, and reference implementations to integrate robotics into AEC curricula.
+        </p>
+      </div>
+
+      <div class="col-md-6 text-center mb-4">
         <i class="fas fa-shield-alt fa-3x mb-3 text-success"></i>
         <h5>Sustainable Infrastructure</h5>
-        <p class="small text-muted px-2">
-          A managing body dedicated to robust governance, security, and CI/CD pipelines. We ensure long-term stability, streamlined onboarding, and data privacy.
+        <p class="small text-muted px-4">
+          A managing body dedicated to robust governance, security, and CI/CD pipelines. We ensure long-term stability, streamlined onboarding, and rigorous data privacy.
         </p>
       </div>
     </div>

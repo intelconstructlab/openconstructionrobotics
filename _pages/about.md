@@ -4,18 +4,6 @@ title: about
 permalink: /
 subtitle:
 
-profile:
-  align: right
-  image: iconlab.png
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>SW Mudd 610</p>
-    <p>500 West 120th Street</p>
-    <p>New York, NY 10025</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
@@ -39,7 +27,7 @@ latest_posts:
 
 <div class="card mt-5 mb-5 border-0 shadow-sm">
   <div class="card-body p-5">
-    <h2 class="card-title text-center mb-5" style="border-bottom: none;">The Vision</h2>
+    <h2 class="card-title text-center mb-5" style="border-bottom: none;">Our Vision</h2>
     
     <div class="row">
       <div class="col-md-4 text-center mb-4">

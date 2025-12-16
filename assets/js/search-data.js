@@ -419,10 +419,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/openconstructionrobotics/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-we-just-release-our-website",
+            },},{id: "news-we-just-release-our-website",
           title: 'We just release our website!',
           description: "",
           section: "News",},{id: "projects-acteabot",

@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/openconstructionrobotics/repositories/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+        },{id: "nav-education",
+          title: "education",
+          description: "open construction robotics for education.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/openconstructionrobotics/teaching/";

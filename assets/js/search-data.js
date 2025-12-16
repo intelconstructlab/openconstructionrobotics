@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/openconstructionrobotics/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
+        },{id: "nav-community",
+          title: "community",
+          description: "contributors",
           section: "Navigation",
           handler: () => {
             window.location.href = "/openconstructionrobotics/people/";

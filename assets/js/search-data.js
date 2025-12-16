@@ -432,8 +432,8 @@ ninja.data = [{
           description: "The first open dataset with 1,103 egocentric images and corresponding 2D construction worker poses across 63 action types.",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/2_project/";
-            },},{id: "projects-construction-worker-egocentric-dataset",
-          title: 'Construction Worker Egocentric Dataset',
+            },},{id: "projects-egoaction-dataset",
+          title: 'EgoAction Dataset',
           description: "EgoAction is a real-world construction action recognition dataset built upon the Ego4D framework.",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/3_project/";

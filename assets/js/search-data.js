@@ -434,7 +434,7 @@ ninja.data = [{
               window.location.href = "/openconstructionrobotics/projects/2_project/";
             },},{id: "projects-lio-bim",
           title: 'LIO-BIM',
-          description: "a project that redirects to another website",
+          description: "A real-time lidar-inertial odometry package for 3D localization and mapping in BIM models",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/3_project/";
             },},{id: "projects-project-4",

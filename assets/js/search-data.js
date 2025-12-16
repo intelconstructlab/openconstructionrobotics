@@ -435,9 +435,9 @@ ninja.data = [{
           description: "4D Indoor Millimeter Wave Dataset and Analysis for Hazardous Environment Perception",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/4_project/";
-            },},{id: "projects-roboterrain",
-          title: 'RoboTerrain',
-          description: "This repository provides a comprehensive framework for off-road mobile robot research",
+            },},{id: "projects-constructionsitevlm",
+          title: 'ConstructionSiteVLM',
+          description: "The dataset consists of a total of 10,013 construction site images and their annotations. Among them, 7,009 images are assigned to the training split while 3,004 images are assigned to the test split.",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/5_project/";
             },},{id: "projects-project-6",

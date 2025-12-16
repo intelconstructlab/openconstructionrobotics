@@ -79,7 +79,7 @@ announcements:
       </p>
     </div>
     <div class="col-md-4 text-center">
-      <a href="https://github.com/your-org" class="btn btn-dark btn-lg shadow-sm" role="button">
+      <a href="https://github.com/intelconstructlab/openconstructionrobotics/issues/new?template=join_us.yml" class="btn btn-dark btn-lg shadow-sm" role="button">
         <i class="fab fa-github mr-2"></i> Join Us
       </a>
     </div>

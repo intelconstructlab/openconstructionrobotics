@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lei Huang
-description: PhD student
+description: PhD@Columbia
 img: https://leihhhuang.github.io/assets/images/profile.png
 importance: 1
 category: team

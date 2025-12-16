@@ -4,7 +4,7 @@ title: AcTEAbot
 description: a robot for thermal inspection in ceilings
 img: assets/img/AcTEA-bot.png
 importance: 1
-category: work
+category: navigation
 related_publications: true
 ---
 

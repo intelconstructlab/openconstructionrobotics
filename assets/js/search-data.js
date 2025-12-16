@@ -442,9 +442,9 @@ ninja.data = [{
           description: "This repository offers a development environment for an autonomous excavator.",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-roboterrain",
+          title: 'RoboTerrain',
+          description: "This repository provides a comprehensive framework for off-road mobile robot research",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/5_project/";
             },},{id: "projects-project-6",

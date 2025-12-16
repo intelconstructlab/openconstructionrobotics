@@ -6,6 +6,7 @@ img: assets/img/bim2ros.png
 importance: 2
 category: work
 giscus_comments: true
+redirect: https://github.com/robotics-upo/bim2ros
 ---
 
 [bim2ros](https://github.com/robotics-upo/bim2ros)

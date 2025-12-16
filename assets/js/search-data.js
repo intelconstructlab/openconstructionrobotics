@@ -432,8 +432,8 @@ ninja.data = [{
           description: "a toolkit that integrates BIM with ROS.",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
+            },},{id: "projects-lio-bim",
+          title: 'LIO-BIM',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/3_project/";

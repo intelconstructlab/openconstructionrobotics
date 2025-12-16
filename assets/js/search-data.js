@@ -455,6 +455,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/9_project/";
+            },},{id: "projects-christine-suen",
+          title: 'Christine SUEN',
+          description: "PhD student",
+          section: "Projects",handler: () => {
+              window.location.href = "/openconstructionrobotics/projects/christine_suen/";
             },},{id: "projects-lei-huang",
           title: 'Lei Huang',
           description: "PhD student",

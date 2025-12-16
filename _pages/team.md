@@ -1,6 +1,6 @@
 ---
 layout: page
-title: people
+title: team
 permalink: /people/
 description:
 nav: true

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We just release our website!
+We just release our website! :sparkles: :smile:

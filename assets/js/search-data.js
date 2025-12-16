@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-education",
           title: "education",
-          description: "open construction robotics for education.",
+          description: "education resources for open construction robotics",
           section: "Navigation",
           handler: () => {
             window.location.href = "/openconstructionrobotics/teaching/";

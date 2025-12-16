@@ -427,9 +427,9 @@ ninja.data = [{
           description: "a robot for thermal inspection in ceilings",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/1_project/";
-            },},{id: "projects-bim2ros",
-          title: 'bim2ros',
-          description: "a toolkit that integrates BIM with ROS.",
+            },},{id: "projects-icon-pose",
+          title: 'ICON-Pose',
+          description: "The first open dataset with 1,103 egocentric images and corresponding 2D construction worker poses across 63 action types.",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/2_project/";
             },},{id: "projects-lio-bim",

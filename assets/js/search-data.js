@@ -437,9 +437,9 @@ ninja.data = [{
           description: "A real-time lidar-inertial odometry package for 3D localization and mapping in BIM models",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-autonomous-excavator",
+          title: 'Autonomous excavator',
+          description: "This repository offers a development environment for an autonomous excavator.",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/4_project/";
             },},{id: "projects-project-5",

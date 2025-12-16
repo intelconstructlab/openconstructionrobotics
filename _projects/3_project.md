@@ -2,7 +2,7 @@
 layout: page
 title: EgoAction Dataset
 description: EgoAction is a real-world construction action recognition dataset built upon the Ego4D framework. 
-img: assets/img/7.jpg
+img: assets/img/egoaction_example.png
 redirect: https://github.com/christine715/EgoAction-Egocentric-based-Construction-Worker-Action-Recognition-
 importance: 3
 category: dataset

@@ -457,7 +457,7 @@ ninja.data = [{
               window.location.href = "/openconstructionrobotics/projects/9_project/";
             },},{id: "projects-christine-suen",
           title: 'Christine SUEN',
-          description: "PhD student",
+          description: "PhD@Columbia",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/christine_suen/";
             },},{id: "projects-kangkang-duan",

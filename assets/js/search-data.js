@@ -460,6 +460,11 @@ ninja.data = [{
           description: "PhD student",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/lei_huang/";
+            },},{id: "projects-weijia-cai",
+          title: 'Weijia Cai',
+          description: "PhD student",
+          section: "Projects",handler: () => {
+              window.location.href = "/openconstructionrobotics/projects/weijia_cai/";
             },},{id: "projects-zhengbo-zou",
           title: 'Zhengbo Zou',
           description: "Assistant Professor",

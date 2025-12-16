@@ -427,9 +427,9 @@ ninja.data = [{
           description: "a robot for thermal inspection in ceilings",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-bim2ros",
+          title: 'bim2ros',
+          description: "a toolkit that integrates BIM with ROS.",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",

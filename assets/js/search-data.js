@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Open-source construction robotics projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/openconstructionrobotics/projects/";

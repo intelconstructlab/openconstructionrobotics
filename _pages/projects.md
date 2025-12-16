@@ -5,7 +5,7 @@ permalink: /projects/
 description: Open-source construction robotics projects.
 nav: true
 nav_order: 3
-display_categories: [work]
+display_categories: [navigation, manipulation]
 horizontal: false
 ---
 

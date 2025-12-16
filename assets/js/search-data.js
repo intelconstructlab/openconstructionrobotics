@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/openconstructionrobotics/";
     },
-  },{id: "nav-projects",
+  },{id: "nav-people",
+          title: "people",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/openconstructionrobotics/people/";
+          },
+        },{id: "nav-projects",
           title: "projects",
           description: "Open-source construction robotics projects.",
           section: "Navigation",
@@ -36,13 +43,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/openconstructionrobotics/teaching/";
-          },
-        },{id: "nav-community",
-          title: "community",
-          description: "contributors",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/openconstructionrobotics/people/";
           },
         },{id: "post-a-post-with-plotly-js",
         

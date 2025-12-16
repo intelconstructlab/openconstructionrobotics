@@ -453,7 +453,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-acteabot",
           title: 'AcTEAbot',
-          description: "with background image",
+          description: "a robot for thermal inspection in ceilings",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/1_project/";
             },},{id: "projects-project-2",

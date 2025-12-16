@@ -2,7 +2,7 @@
 layout: page
 title: bim2ros
 description: a toolkit that integrates BIM with ROS.
-img: assets/img/3.jpg
+img: assets/img/bim2ros.png
 importance: 2
 category: work
 giscus_comments: true

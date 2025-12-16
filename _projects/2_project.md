@@ -1,12 +1,12 @@
 ---
 layout: page
-title: bim2ros
-description: a toolkit that integrates BIM with ROS.
+title: ICON-Pose
+description: The first open dataset with 1,103 egocentric images and corresponding 2D construction worker poses across 63 action types.
 img: assets/img/bim2ros.png
 importance: 2
-category: navigation
+category: HRI
 giscus_comments: true
-redirect: https://github.com/robotics-upo/bim2ros
+redirect: https://github.com/christine715/ICON-Pose
 ---
 
-[bim2ros](https://github.com/robotics-upo/bim2ros)
+

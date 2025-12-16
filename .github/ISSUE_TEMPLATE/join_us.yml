@@ -1,0 +1,59 @@
+name: 🤖 New Model / Dataset Submission
+description: Submit a new AI model or dataset to the registry
+title: "[Submission]: <Title of Model/Dataset>"
+labels: ["submission", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing to OpenConstructionRobotics! 
+        Please fill out the details below so we can add your resource to the catalog.
+
+  - type: input
+    id: resource_name
+    attributes:
+      label: Resource Name
+      description: What is the name of the model or dataset?
+      placeholder: e.g., Construction-Site-LiDAR-v1
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: What type of resource is this?
+      options:
+        - Perception Model
+        - Control Algorithm
+        - LiDAR Dataset
+        - Image Dataset
+        - Simulation Environment
+    validations:
+      required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: Link to Resource
+      description: URL to the paper, GitHub repo, or HuggingFace page.
+      placeholder: https://...
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Briefly describe what this resource does and its intended use case in construction.
+    validations:
+      required: true
+
+  - type: textarea
+    id: license
+    attributes:
+      label: License
+      description: What license is this released under? (e.g., MIT, CC-BY-4.0)
+      render: markdown
+    validations:
+      required: false

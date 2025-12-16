@@ -430,9 +430,9 @@ ninja.data = [{
           description: "EgoAction is a real-world construction action recognition dataset built upon the Ego4D framework.",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/3_project/";
-            },},{id: "projects-autonomous-excavator",
-          title: 'Autonomous excavator',
-          description: "This repository offers a development environment for an autonomous excavator.",
+            },},{id: "projects-indoor-firerescue-radar-dataset",
+          title: 'Indoor FireRescue Radar dataset',
+          description: "4D Indoor Millimeter Wave Dataset and Analysis for Hazardous Environment Perception",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/4_project/";
             },},{id: "projects-roboterrain",

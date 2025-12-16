@@ -5,5 +5,5 @@ description: EgoAction is a real-world construction action recognition dataset b
 img: assets/img/7.jpg
 redirect: https://github.com/christine715/EgoAction-Egocentric-based-Construction-Worker-Action-Recognition-
 importance: 3
-category: HRI
+category: dataset
 ---

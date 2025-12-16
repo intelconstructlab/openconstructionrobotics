@@ -455,6 +455,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/9_project/";
+            },},{id: "projects-zhengbo-zou",
+          title: 'Zhengbo Zou',
+          description: "Assistant Professor",
+          section: "Projects",handler: () => {
+              window.location.href = "/openconstructionrobotics/projects/zhengbo_zou/";
             },},{
         id: 'social-cv',
         title: 'CV',

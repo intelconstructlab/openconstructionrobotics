@@ -472,7 +472,7 @@ ninja.data = [{
               window.location.href = "/openconstructionrobotics/projects/lei_huang/";
             },},{id: "projects-weijia-cai",
           title: 'Weijia Cai',
-          description: "PhD student",
+          description: "PhD@Columbia",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/weijia_cai/";
             },},{id: "projects-zhengbo-zou",

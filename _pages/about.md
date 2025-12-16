@@ -9,10 +9,6 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 
@@ -79,12 +75,12 @@ latest_posts:
       <h3 style="margin-top: 0; border-bottom: none;">Join the Community</h3>
       <p class="mb-0">
         We are building a group of like-minded researchers and developers. 
-        Sign up for updates or join the discussion on our platforms.
+        Visit our organization to open an issue, start a discussion, or request to join.
       </p>
     </div>
     <div class="col-md-4 text-center">
-      <a href="https://your-link-here.com" class="btn btn-primary btn-lg shadow-sm" role="button">
-        <i class="fab fa-discord mr-2"></i> Join Discord
+      <a href="https://github.com/your-org" class="btn btn-dark btn-lg shadow-sm" role="button">
+        <i class="fab fa-github mr-2"></i> Join Us
       </a>
     </div>
   </div>

@@ -419,8 +419,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/openconstructionrobotics/books/the_godfather/";
-            },},{id: "news-we-just-release-our-website",
-          title: 'We just release our website!',
+            },},{id: "news-we-just-release-our-website-sparkles-smile",
+          title: 'We just release our website! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-acteabot",
           title: 'AcTEAbot',

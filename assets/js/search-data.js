@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/openconstructionrobotics/projects/";
           },
+        },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/openconstructionrobotics/blog/";
+          },
         },{id: "nav-publications",
           title: "publications",
           description: "",

@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/openconstructionrobotics/projects/";
           },
-        },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/openconstructionrobotics/blog/";
-          },
         },{id: "nav-publications",
           title: "publications",
           description: "",
@@ -32,10 +25,10 @@ ninja.data = [{
           },
         },{id: "nav-education",
           title: "education",
-          description: "education resources for open construction robotics",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/openconstructionrobotics/teaching/";
+            window.location.href = "/openconstructionrobotics/blog/";
           },
         },{id: "nav-team",
           title: "team",
@@ -53,6 +46,72 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
+          
+        },
+      },{id: "post-jetson-nano-project-template-environmental-sensor",
+        
+          title: "Jetson Nano project template-environmental sensor",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/openconstructionrobotics/blog/2023/jetson-tutorial3/";
+          
+        },
+      },{id: "post-jetson-nano-project-template-camera",
+        
+          title: "Jetson Nano project template-camera",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/openconstructionrobotics/blog/2023/jetson-tutorial2/";
+          
+        },
+      },{id: "post-jetson-nano-project-tutorial-hardware",
+        
+          title: "Jetson Nano project tutorial-hardware",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/openconstructionrobotics/blog/2023/jetson-tutorial1/";
+          
+        },
+      },{id: "post-xarm-ufactury-studio-and-python-sdk-examples",
+        
+          title: "XArm Ufactury studio and Python SDK examples",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/openconstructionrobotics/blog/2023/xarm-doc1/";
+          
+        },
+      },{id: "post-unitree-go-1-edu-doc-3d-lidar-usage-and-slam",
+        
+          title: "Unitree Go 1 EDU doc--3D LiDAR usage and SLAM",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/openconstructionrobotics/blog/2023/go1-doc2/";
+          
+        },
+      },{id: "post-unitree-go-1-edu-doc-control-with-legged-sdk-and-ros",
+        
+          title: "Unitree Go 1 EDU doc--control with legged SDK and ROS",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/openconstructionrobotics/blog/2023/go1-doc1/";
           
         },
       },{id: "post-displaying-external-posts-on-your-al-folio-blog",

@@ -183,7 +183,7 @@ ninja.data = [{
               window.location.href = "/openconstructionrobotics/projects/weijia_cai/";
             },},{id: "projects-zhengbo-zou",
           title: 'Zhengbo Zou',
-          description: "Assistant Professor",
+          description: "Assistant Professor at Columbia University",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/zhengbo_zou/";
             },},{

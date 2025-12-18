@@ -176,6 +176,11 @@ ninja.data = [{
           description: "PhD@Columbia",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/lei_huang/";
+            },},{id: "projects-ruoxin-xiong",
+          title: 'Ruoxin Xiong',
+          description: "Assistant Professor at Kent State University",
+          section: "Projects",handler: () => {
+              window.location.href = "/openconstructionrobotics/projects/ruoxin_xiong/";
             },},{id: "projects-weijia-cai",
           title: 'Weijia Cai',
           description: "PhD@Columbia",

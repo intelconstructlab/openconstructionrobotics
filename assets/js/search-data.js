@@ -156,6 +156,11 @@ ninja.data = [{
           description: "PhD@Columbia",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/christine_suen/";
+            },},{id: "projects-ci-jyun-polar-liang",
+          title: 'Ci-Jyun Polar Liang',
+          description: "Assistant Professor at Stony Brook University",
+          section: "Projects",handler: () => {
+              window.location.href = "/openconstructionrobotics/projects/cj_liang/";
             },},{id: "projects-harry-zhang",
           title: 'Harry Zhang',
           description: "PhD@UBC",

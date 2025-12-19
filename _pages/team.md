@@ -4,7 +4,7 @@ title: team
 permalink: /people/
 description:
 nav: true
-display_categories: [team, pi]
+display_categories: [PI, team]
 horizontal: false
 nav_order: 6
 ---

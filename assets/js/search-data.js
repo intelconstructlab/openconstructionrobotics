@@ -136,8 +136,8 @@ ninja.data = [{
           description: "The dataset consists of a total of 10,013 construction site images and their annotations. Among them, 7,009 images are assigned to the training split while 3,004 images are assigned to the test split.",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/5_project/";
-            },},{id: "projects-openconstruction-open-science-initiative",
-          title: 'OpenConstruction Open Science Initiative',
+            },},{id: "projects-open-construction-open-science-initiative",
+          title: 'Open Construction Open Science Initiative',
           description: "A curated catalog of open datasets, AI models, OERs, and use cases for the AEC domain.",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/6_project/";

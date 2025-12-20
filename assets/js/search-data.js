@@ -141,9 +141,9 @@ ninja.data = [{
           description: "A curated catalog of open datasets, AI models, OERs, and use cases for the AEC domain.",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/6_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-ar-based-onsite-inspection-tools",
+          title: 'AR-Based Onsite Inspection Tools',
+          description: "An Extended Reality(XR)-augmented visual assistance framework, including VR and AR, that enablescapturing and transferring subconscious inspection strategies between workers or workers/machines for a construction safety inspection",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/8_project/";
             },},{id: "projects-project-9",

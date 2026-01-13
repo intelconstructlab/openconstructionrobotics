@@ -5,5 +5,5 @@ description: An Extended Reality(XR)-augmented visual assistance framework, incl
 img: https://github.com/ruoxinx/AR-inspection/raw/main/media/framework.png
 importance: 2
 category: code
-giscus_comments: true
+redirect: https://github.com/ruoxinx/AR-inspection
 ---

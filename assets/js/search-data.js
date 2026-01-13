@@ -157,9 +157,9 @@ ninja.data = [{
           description: "An Extended Reality(XR)-augmented visual assistance framework, including VR and AR, that enablescapturing and transferring subconscious inspection strategies between workers or workers/machines for a construction safety inspection",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-openbimdisk",
+          title: 'openBIMdisk',
+          description: "a Flask-backed DApp for semantics-level BIM exchange and tracing in the Blockchain 3.0 environmen",
           section: "Projects",handler: () => {
               window.location.href = "/openconstructionrobotics/projects/9_project/";
             },},{id: "projects-christine-suen",
